@@ -1,6 +1,6 @@
 {
   "display_name": "Perl, Test::Simple",
-  "image_name": "cyberdojofoundation/perl_test_simple:e03b24c",
+  "image_name": "cyberdojofoundation/perl_test_simple:e13c906",
   "visible_filenames": [
     "hiker.t",
     "hiker.pl",
