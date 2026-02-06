@@ -1,6 +1,6 @@
 {
-  "display_name": "Perl, Test::Simple",
-  "image_name": "cyberdojofoundation/perl_test_simple:6dd47c6",
+  "display_name": "Perl 5.42.0, Test::Simple",
+  "image_name": "ghcr.io/cyber-dojo-languages/perl_test_simple:8e862fb",
   "visible_filenames": [
     "hiker.t",
     "hiker.pl",
