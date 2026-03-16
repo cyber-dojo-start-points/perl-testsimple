@@ -1,11 +1,12 @@
 {
-  "display_name": "Perl 5.42.0, Test::Simple",
-  "image_name": "ghcr.io/cyber-dojo-languages/perl_test_simple:8e862fb",
+  "display_name": "Perl 5.42.1, Test::Simple",
+  "image_name": "ghcr.io/cyber-dojo-languages/perl_test_simple:dc0f44a",
   "visible_filenames": [
     "hiker.t",
     "hiker.pl",
     "cyber-dojo.sh"
   ],
+  "rag_lambda": "red_amber_green.rb",
   "filename_extension": [
     ".pl",
     ".t"
