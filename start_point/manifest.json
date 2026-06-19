@@ -1,5 +1,13 @@
 {
   "display_name": "Perl 5.42.1, Test::Simple",
+  "language": [
+    "Perl",
+    "5.42.1"
+  ],
+  "test_framework": [
+    "Test::Simple",
+    ""
+  ],
   "image_name": "ghcr.io/cyber-dojo-languages/perl_test_simple:dc0f44a",
   "visible_filenames": [
     "hiker.t",
