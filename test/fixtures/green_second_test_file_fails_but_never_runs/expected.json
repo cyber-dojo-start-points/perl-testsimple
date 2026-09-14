@@ -1,0 +1,10 @@
+{
+  "max_output_lines": 5,
+  "match_counts": {
+    "^1\\.\\.1$": 1,
+    "^ok 1 - Life, the universe, and everything$": 1,
+    "^not ok ": 0,
+    "three digit": 0
+  },
+  "truncated": false
+}

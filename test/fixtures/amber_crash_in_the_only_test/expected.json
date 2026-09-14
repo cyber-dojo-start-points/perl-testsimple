@@ -1,0 +1,10 @@
+{
+  "match_counts": {
+    "^1\\.\\.1$": 1,
+    "^ok ": 0,
+    "^not ok ": 0,
+    "^Illegal division by zero at hiker\\.pl line [0-9]+\\.$": 1,
+    "^# Looks like your test exited with 255 before it could output anything\\.$": 1
+  },
+  "truncated": false
+}

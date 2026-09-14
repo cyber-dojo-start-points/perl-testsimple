@@ -1,12 +1,12 @@
 {
-  "display_name": "Perl 5.42.1, Test::Simple",
+  "display_name": "Perl 5.42.1, Test::Simple 1.302210",
   "language": [
     "Perl",
     "5.42.1"
   ],
   "test_framework": [
     "Test::Simple",
-    ""
+    "1.302210"
   ],
   "image_name": "ghcr.io/cyber-dojo-languages/perl_test_simple:dc0f44a",
   "visible_filenames": [

@@ -1,0 +1,12 @@
+{
+  "matches": [
+    "^syntax error at answer_size\\.t line [0-9]+, near ",
+    "^Execution of answer_size\\.t aborted due to compilation errors\\.$"
+  ],
+  "match_counts": {
+    "^ok ": 0,
+    "hiker\\.t": 0,
+    "^# Looks like your test exited with 255 before it could output anything\\.$": 1
+  },
+  "truncated": false
+}

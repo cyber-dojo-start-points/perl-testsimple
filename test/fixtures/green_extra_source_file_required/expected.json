@@ -1,0 +1,5 @@
+{
+  "max_output_lines": 6,
+  "match_counts": { "^1\\.\\.2$": 1, "^ok ": 2 },
+  "truncated": false
+}

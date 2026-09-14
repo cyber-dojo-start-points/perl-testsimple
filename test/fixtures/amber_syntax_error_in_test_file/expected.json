@@ -1,0 +1,11 @@
+{
+  "matches": [
+    "^syntax error at hiker\\.t line [0-9]+, near ",
+    "^Execution of hiker\\.t aborted due to compilation errors\\.$"
+  ],
+  "match_counts": {
+    "^ok ": 0,
+    "^# Looks like your test exited with 255 before it could output anything\\.$": 1
+  },
+  "truncated": false
+}

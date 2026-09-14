@@ -1,0 +1,9 @@
+{
+  "max_output_lines": 6,
+  "match_counts": {
+    "^1\\.\\.2$": 1,
+    "^ok 1 - Life, the universe, and everything$": 1,
+    "^ok 2 # skip how wide the answer is is not decided yet$": 1
+  },
+  "truncated": false
+}

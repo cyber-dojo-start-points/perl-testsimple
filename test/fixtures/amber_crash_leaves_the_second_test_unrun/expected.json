@@ -1,0 +1,9 @@
+{
+  "match_counts": {
+    "^1\\.\\.2$": 1,
+    "^ok 1 - Life, the universe, and everything$": 1,
+    "^ok 2": 0,
+    "^# Looks like your test exited with 255 just after 1\\.$": 1
+  },
+  "truncated": false
+}

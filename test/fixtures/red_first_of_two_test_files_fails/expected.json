@@ -1,0 +1,10 @@
+{
+  "match_counts": {
+    "^1\\.\\.1$": 1,
+    "^not ok 1 - the answer is a three digit number$": 1,
+    "^ok ": 0,
+    "Life, the universe, and everything": 0,
+    "^# Looks like you failed 1 test of 1\\.$": 1
+  },
+  "truncated": false
+}

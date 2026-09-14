@@ -1,0 +1,9 @@
+sub fizz_buzz {
+  my ($n) = @_;
+  return "FizzBuzz" if $n % 15 == 0;
+  return "Fizz" if $n % 3 == 0;
+  return "Buzz" if $n % 5 == 0;
+  return "$n";
+}
+
+1;

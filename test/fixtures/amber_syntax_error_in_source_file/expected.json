@@ -1,0 +1,12 @@
+{
+  "matches": [
+    "^syntax error at hiker\\.pl line [0-9]+, at EOF$",
+    "^Execution of hiker\\.pl aborted due to compilation errors\\.$",
+    "^Compilation failed in require at hiker\\.t line [0-9]+\\.$"
+  ],
+  "match_counts": {
+    "^ok ": 0,
+    "^# Looks like your test exited with 255 before it could output anything\\.$": 1
+  },
+  "truncated": false
+}

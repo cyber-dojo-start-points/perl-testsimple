@@ -1,0 +1,10 @@
+{
+  "matches": [
+    "^Undefined subroutine &main::the_answer called at hiker\\.t line [0-9]+\\.$"
+  ],
+  "match_counts": {
+    "^ok ": 0,
+    "^# Looks like your test exited with 255 before it could output anything\\.$": 1
+  },
+  "truncated": false
+}

@@ -1,0 +1,7 @@
+{
+  "truncated": true,
+  "match_counts": {
+    "^1\\.\\.1$": 1,
+    "^ok 1 - ": 0
+  }
+}

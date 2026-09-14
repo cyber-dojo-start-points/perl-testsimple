@@ -1,0 +1,11 @@
+{
+  "matches": [
+    "Do you need to predeclare \"retrun\"",
+    "^syntax error at hiker\\.pl line [0-9]+, near \"retrun 6\"$"
+  ],
+  "match_counts": {
+    "^ok ": 0,
+    "^# Looks like your test exited with 255 before it could output anything\\.$": 1
+  },
+  "truncated": false
+}
